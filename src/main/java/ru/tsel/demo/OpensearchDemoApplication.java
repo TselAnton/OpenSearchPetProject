@@ -9,5 +9,4 @@ public class OpensearchDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpensearchDemoApplication.class, args);
 	}
-
 }
